@@ -279,10 +279,6 @@ Having issues? Here's how to get help:
 
 ---
 
-**Created by [@naakaarafr](https://github.com/naakaarafr)** | Built with ❤️ using CrewAI and Google Gemini
-
----
-
 ## 🚀 Ready to Get Started?
 
 1. Set up your API keys
